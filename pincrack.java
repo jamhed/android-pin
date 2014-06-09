@@ -1,6 +1,6 @@
 import java.security.MessageDigest;
 
-class test {
+class pincrack {
    public static void main(String[] args) {
       if (args.length < 2) {
          System.out.println("Usage: salt hash [digits=4]");
