@@ -4,6 +4,8 @@ Usage: java pin-cracker salt password [number of digits]
 
 Compilation:
 
+```shell
 $javac pincrack.java
 $java pincrack
 Usage: salt hash [digits=4]
+```
